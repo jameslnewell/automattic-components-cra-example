@@ -5,12 +5,16 @@
   "dependencies": {
     "@automattic/calypso-color-schemes": "^2.1.0",
     "@automattic/components": "^1.0.0-alpha.0",
-    "@testing-library/jest-dom": "^4.2.4",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0"
+  },
+  "devDependencies": {
+    "@testing-library/dom": "^6.11.0",
     "@testing-library/react": "^9.3.2",
     "@testing-library/user-event": "^7.1.2",
-    "react": "^16.12.0",
-    "react-dom": "^16.12.0",
-    "react-scripts": "3.3.0"
+    "@wordpress/browserslist-config": "^2.6.0",
+    "node-sass": "^4.13.0",
+    "react-scripts": "^3.3.0"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -32,9 +36,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "devDependencies": {
-    "@wordpress/browserslist-config": "^2.6.0",
-    "node-sass": "^4.13.0"
   }
 }

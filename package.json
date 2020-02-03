@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "@automattic/calypso-color-schemes": "^2.1.0",
-    "@automattic/components": "^1.0.0-alpha.0",
+    "@automattic/components": "^1.0.0-alpha.1",
     "react": "^16.12.0",
     "react-dom": "^16.12.0"
   },
@@ -14,7 +14,8 @@
     "@testing-library/user-event": "^7.1.2",
     "@wordpress/browserslist-config": "^2.6.0",
     "node-sass": "^4.13.0",
-    "react-scripts": "^3.3.0"
+    "react-scripts": "^3.3.0",
+    "typescript": "^3.7.5"
   },
   "scripts": {
     "start": "react-scripts start",

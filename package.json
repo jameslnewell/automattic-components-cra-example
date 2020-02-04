@@ -5,6 +5,7 @@
   "dependencies": {
     "@automattic/calypso-color-schemes": "^2.1.0",
     "@automattic/components": "^1.0.0-alpha.1",
+    "@babel/runtime": "^7.8.4",
     "react": "^16.12.0",
     "react-dom": "^16.12.0"
   },
